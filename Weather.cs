@@ -13,6 +13,10 @@ namespace MedicalStoreManagementSystem
         public string Summary { get; set; }
         public string day { get; set; }
 		public string year { get; set; }
+<<<<<<< HEAD
         public string month { get; set; }
+=======
+        public string week { get; set; }
+>>>>>>> develop
     }
 }
