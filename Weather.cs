@@ -12,5 +12,6 @@ namespace MedicalStoreManagementSystem
 
         public string Summary { get; set; }
         public string day { get; set; }
+		public string year { get; set; }
     }
 }
